@@ -140,7 +140,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HV1O651yje2D5qPTosoQOpyFU40oTmXTleluZt4uznKD8KxsWIngO6XI&s=10" width="48" height="48" alt="Power BI" />
     <br>Power BI
   </td>
   <td align="center" width="96">
