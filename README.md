@@ -152,7 +152,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
     <br>Pandas
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />
+    <img src="https://img.icons8.com/color/1200/matplotlib.jpg" width="48" height="48" alt="Matplotlib" />
     <br>Matplotlib
   </td>
 </tr>
