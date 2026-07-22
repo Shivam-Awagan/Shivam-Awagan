@@ -83,6 +83,7 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br>Python
 </td>
+  
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
 <br>Java
