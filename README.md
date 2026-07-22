@@ -88,10 +88,6 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br>Python
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
 </tr>
 </table>
 
