@@ -137,26 +137,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 </tr>
 </table>
 
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HV1O651yje2D5qPTosoQOpyFU40oTmXTleluZt4uznKD8KxsWIngO6XI&s=10" width="48" height="48" alt="Power BI" />
-    <br>Power BI
-  </td>
-  <td align="center" width="96">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf662jsDk194narO5f2NvL4fnvABPHtOYlnFVNoB5nJA&s=10" width="48" height="48" alt="NumPy" />
-    <br>NumPy
-  </td>
-  <td align="center" width="96">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwB1kNEMfidw53EWjaFSWxhnifObM7XOwi83_6ogJug&s=10" width="48" height="48" alt="Pandas" />
-    <br>Pandas
-  </td>
-  <td align="center" width="96">
-    <img src="https://img.icons8.com/color/1200/matplotlib.jpg" width="48" height="48" alt="Matplotlib" />
-    <br>Matplotlib
-  </td>
-</tr>
-</table>
+
 
 </div>
 
