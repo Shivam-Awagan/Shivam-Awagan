@@ -144,7 +144,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
     <br>Power BI
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf662jsDk194narO5f2NvL4fnvABPHtOYlnFVNoB5nJA&s=10" width="48" height="48" alt="NumPy" />
     <br>NumPy
   </td>
   <td align="center" width="96">
