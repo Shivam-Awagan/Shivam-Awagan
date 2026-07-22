@@ -76,6 +76,10 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 ### Languages
 <table>
 <tr>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
 <br>Java
@@ -84,10 +88,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
+
 </tr>
 </table>
 
@@ -136,6 +137,26 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 </tr>
 </table>
 
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+    <br>Power BI
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+    <br>NumPy
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+    <br>Pandas
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" />
+    <br>Matplotlib
+  </td>
+</tr>
+</table>
 
 </div>
 
