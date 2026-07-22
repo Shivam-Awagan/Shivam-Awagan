@@ -11,19 +11,19 @@
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://linkedin.com/in/RohanByale" target="_blank">
+<a href="https://linkedin.com/in/shivam-awagan" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
 <br>LinkedIn
 </td>
 <td align="center" width="96">
-<a href="https://instagram.com/_rohan__04_" target="_blank">
+<a href="https://instagram.com/shivam_awagan_999" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
 </a>
 <br>Instagram
 </td>
 <td align="center" width="96">
-<a href="mailto:byalerohan@gmail.com">
+<a href="mailto:shivamawagan1234@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
 </a>
 <br>Email
