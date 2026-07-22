@@ -110,18 +110,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
 <br>Vite
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-<br>Three.js
-</td>
-<td align="center" width="96">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWyuvw_2-8klDT7VzT3lkYy09MFOK3oI9xDgn02TUew&s=10" width="48" height="48" alt="GSAP" />
-<br>GSAP
-</td>
-<td align="center" width="96">
-<img src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png" width="48" height="48" alt="Framer Motion" />
-<br>Motion
-</td>
+
 </tr>
 </table>
 
@@ -147,35 +136,6 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 </tr>
 </table>
 
-### DevOps & Tools
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-</tr>
-</table>
 
 </div>
 
