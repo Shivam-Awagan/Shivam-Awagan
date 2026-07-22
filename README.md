@@ -195,7 +195,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <tr>
 <td align="center">
   
-![](https://github-readme-stats.shion.dev/api?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Shivam-Awagan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
 </td>
 </tr>
@@ -205,7 +205,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <table>
 <tr>
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=rohanbyale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Shivam-Awagan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -215,7 +215,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <tr>
 <td align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivam-Awagan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </td>
 </tr>
 </table>
@@ -228,30 +228,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://i.pinimg.com/736x/c5/21/64/c521649a9f031192248c9a779e8713a8.jpg" width="100" /><br>
-<b>Gaming</b><br>
-Grinding Games
-</td>
-<td align="center" width="25%">
-<img src="https://i.pinimg.com/1200x/66/99/b1/6699b139e747aa41daec3ed40f8487f3.jpg" width="100" /><br>
-<b>DJing</b><br>
-Spinning at events
-</td>
-<td align="center" width="25%">
-<img src="https://i.pinimg.com/1200x/7a/8c/97/7a8c975740cd0a51f64585b306085571.jpg" width="100" /><br>
-<b>Cricket</b><br>
-Playing the game
-</td>
-<td align="center" width="25%">
-<img src="https://i.pinimg.com/736x/96/d1/cc/96d1cc416bfc7a2a0a16feb235f1defa.jpg" width="100" /><br>
-<b>Side Projects</b><br>
-Learning & building
-</td>
-</tr>
-</table>
+
 
 </div>
 
@@ -271,7 +248,7 @@ Learning & building
 
 
 <a href="https://visitcount.itsvg.in">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbyale&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-Awagan&theme=tokyonight" />
 </a>
 
 </div>
