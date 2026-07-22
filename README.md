@@ -148,7 +148,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
     <br>NumPy
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwB1kNEMfidw53EWjaFSWxhnifObM7XOwi83_6ogJug&s=10" width="48" height="48" alt="Pandas" />
     <br>Pandas
   </td>
   <td align="center" width="96">
