@@ -51,16 +51,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" width="100%" />
 </td>
 <td align="left" width="55%" style="vertical-align: middle; padding: 20px;">
-<h3>Hey there! I'm Rohan Byale 👋</h3>
+<h3>Hey there! I'm Shivam Awagan 👋</h3>
 <p>
-I am a passionate <b>Full Stack Developer</b> and <b>Software Engineer</b> specializing in building high-performance web applications using the <b>MERN Stack</b> (MongoDB, Express, React, Node.js) and <b>Java Spring Boot</b>. 
+I am a passionate <b>Data Scientist</b> and <b>Generative AI Engineer</b> specializing in building intelligent AI applications using <b>Python, Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs)</b>.
 </p>
+
 <p>
-Beyond traditional engineering, I love crafting immersive digital experiences by combining robust backend architectures with production-grade interactive frontends utilizing <b>Three.js, GSAP, and Framer Motion</b>. I focus on writing clean, optimized code and scaling applications efficiently using modern DevOps practices like <b>Docker and Kubernetes</b>.
+I enjoy transforming data into actionable insights and developing real-world AI solutions using modern technologies like <b>Pandas, NumPy, Scikit-learn, TensorFlow, LangChain, Streamlit, SQL, and Power BI</b>. My focus is on creating scalable, efficient, and production-ready AI systems.
 </p>
+
 <p>
-🚀 Always building, continuously learning, and constantly pushing the boundaries of web development.
+🚀 Always learning, continuously innovating, and constantly pushing the boundaries of <b>Data Science</b> and <b>Generative AI</b>.
 </p>
+
 </td>
 </tr>
 </table>
