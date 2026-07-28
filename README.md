@@ -126,6 +126,14 @@ I enjoy transforming data into actionable insights and developing real-world AI 
   <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
   <br>Flask
 </td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br>Node.js
@@ -133,14 +141,6 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
 <br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
 </td>
 </tr>
 </table>
