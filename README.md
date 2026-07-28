@@ -147,6 +147,10 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 
 ### Tools
 <table>
+  <td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+  <br>Excel
+</td>
 <tr>
   <td align="center" width="96">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HV1O651yje2D5qPTosoQOpyFU40oTmXTleluZt4uznKD8KxsWIngO6XI&s=10" width="48" height="48" alt="Power BI" />
