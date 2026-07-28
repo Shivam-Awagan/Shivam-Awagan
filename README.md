@@ -149,6 +149,10 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 <table>
 <tr>
   <td align="center" width="96">
+    <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="48" height="48" alt="Power BI" />
+    <br>Excel
+  </td>
+  <td align="center" width="96">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HV1O651yje2D5qPTosoQOpyFU40oTmXTleluZt4uznKD8KxsWIngO6XI&s=10" width="48" height="48" alt="Power BI" />
     <br>Power BI
   </td>
