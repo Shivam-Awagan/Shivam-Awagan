@@ -138,6 +138,11 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
 </tr>
 </table>
 
