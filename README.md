@@ -148,7 +148,7 @@ I enjoy transforming data into actionable insights and developing real-world AI 
 ### Tools
 <table>
   <td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019-present.svg" width="48" height="48" alt="Microsoft Excel" />
   <br>Excel
 </td>
 <tr>
